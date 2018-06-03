@@ -1,7 +1,12 @@
 # gulpfile-stylus-es6-ts
 
-gulp tasks:
+Styles --> dev/styles
 
+typescript --> dev/ts
+
+html --> dev/index.html
+
+gulp tasks:
 
 gulp => styles,images,ts
 
