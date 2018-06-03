@@ -1,4 +1,6 @@
-# gulpfile-stylus-es6-ts
+#gulpfile-stylus-es6-ts
+
+small and easy gulpfile for quickstart of small/testprojects
 
 Styles --> dev/styles
 
